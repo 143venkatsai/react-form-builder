@@ -23,7 +23,7 @@ This app allows users to **create forms**, **add various field types**, and **vi
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework:** React + Vite
+- **Frontend Framework:** React 
 - **State Management:** Redux Toolkit
 - **Routing:** React Router DOM
 - **UI Components:** Material UI
